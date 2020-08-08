@@ -2,30 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Kaggle Competitions
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+[Real or Not? Natural Language Processing with Disaster Tweets](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets/blob/master/Notebook.ipynb)
+<img src="images/nlp_disaster_tweet_detection.png?raw=true"/>
 
 
 

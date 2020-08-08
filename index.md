@@ -4,7 +4,7 @@
 
 ### Kaggle Competitions
 
-[Real or Not? Natural Language Processing with Disaster Tweets](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets/blob/master/nlp-with-disaster-tweets.ipynb)
+[Aug 2020: Real or Not? Natural Language Processing with Disaster Tweets](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets/blob/master/nlp-with-disaster-tweets.ipynb)
 <img src="images/nlp_disaster_tweet_detection.png?raw=true"/>
 
 

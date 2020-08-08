@@ -1,11 +1,15 @@
-title: Guo Xuan Wong # your name (or website title) here
-logo: "/images/ProfilePic.png?raw=true" # your photo (or logo) here
+title: Guo Xuan WONG # your name (or website title) here
+logo: "/images/ProfilePic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi there! I am a final year Economics undergraduate at University College London. I am interested in problem solving using machine learning and analytics tools.
   <br><br>
-  Second description 
+  This page showcases some of the exciting projects that I've worked on!
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  I am well-versed with Python, Stata, Tableau, Tableau Prep Builder, SQL, Google and Facebook Analytics
+  
+  
+  <br><br>
+  <a href="https://www.linkedin.com/in/guoxuan-wong/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

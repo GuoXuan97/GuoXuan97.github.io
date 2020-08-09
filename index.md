@@ -14,7 +14,7 @@ Disaster relief organisations and news agencies programmatically monitor Twitter
 [Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling/blob/master/FinalProject.ipynb)<br>
 <img src="images/Aus4.png?raw=true"/><br>
 <img src="images/Trump3.png?raw=true"/><br>
-In this project, I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested in summarising the narratives that right-wing leaders construct to shore up audience support. Interesting findings were made regarding immigration and the juxtaposition of an elite (and sometimes corrupt) political class against the rest of the populace.
+In this project, I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested in summarising the narratives that right-wing leaders construct to shore up audience support. Interesting findings were made regarding immigration and the juxtaposition of an elite political class against the rest of the populace.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

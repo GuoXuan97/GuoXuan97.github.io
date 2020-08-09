@@ -11,7 +11,7 @@ Disaster relief organisations and news agencies programmatically monitor Twitter
 ---
 ### School Projects
 
-[Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling/blob/master/FinalProject.ipynb)
+[Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling/blob/master/FinalProject.ipynb)<br>
 <img src="images/Aus4.png?raw=true"/><br>
 <img src="images/Trump3.png?raw=true"/><br>
 Recent years have seen right-wing movements gaining traction, particularly in the West. Generally, right-wing politics is associated with nationalism, populism and protectionism. I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested to find out about the narratives that right-wing leaders construct to shore up audience support.

@@ -8,5 +8,37 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <a href="https://www.linkedin.com/in/guoxuan-wong/">View My LinkedIn Profile</a> 
   
+  <ul>
+        
+            
+                <li><a href="/">/</a></li>
+            
+        
+            
+                <li><a href="/404">/404</a></li>
+            
+        
+            
+        
+            
+                <li><a href="/blog">/blog</a></li>
+            
+        
+            
+                <li><a href="/design">/design</a></li>
+            
+        
+            
+        
+            
+                <li><a href="/raw">/raw</a></li>
+            
+        
+            
+                <li><a href="/works">/works</a></li>
+            
+        
+    </ul>
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -1,7 +1,7 @@
 ## Portfolio
-- <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a><br>
-- <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a><br>
-- <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a>
+- <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a> (Supervised Learning)<br> 
+- <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a> (Unsupervised Learning)<br>
+- <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> (Sensitivity Analysis)
 
 ---
 

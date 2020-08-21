@@ -10,7 +10,7 @@ Disaster relief organisations and news agencies programmatically monitor Twitter
 
 [Using Data Analytics Tools to Increase Real Estate Management Profits](https://github.com/GuoXuan97/Increasing-Real-Estate-Management-Profits)
 <img src="images/Dashboard.jpg?raw=true"/><br>
-This is my submission for the Capstone Project of the Coursera Specialization "Excel to MySQL: Analytic Techniques for Business" offered by Duke University. The objective is to convince the fictitious property management company to increase its profits by converting some of their properties to short-term rental properties. Firstly, I used MySQL to extract relevant data from a real estate database. I then used Excel to identify opportunities to increase revenue, maximise profits and manage risks. Finally, I created an interactive Tableau dashboard to perform sensitivity analysis. Click [here](https://public.tableau.com/profile/guo.xuan.wong#!/vizhome/WatershedDashboard_15979878979550/Dashboard1?publish=yes) to see the dashboard.
+This is my submission for the Capstone Project of the Coursera Specialization "Excel to MySQL: Analytic Techniques for Business" offered by Duke University. The objective is to convince the fictitious property management company to increase its profits by converting some of their properties to short-term rental properties. Firstly, I used MySQL to extract relevant data from a real estate database. I then used Excel to identify opportunities to increase revenue, maximise profits and manage risks. Finally, I created a Tableau dashboard to perform sensitivity analysis. Click [here](https://public.tableau.com/profile/guo.xuan.wong#!/vizhome/WatershedDashboard_15979878979550/Dashboard1?publish=yes) to interact with the dashboard.
 
 ---
 ### School Projects

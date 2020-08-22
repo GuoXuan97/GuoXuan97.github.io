@@ -9,7 +9,7 @@
 <a id="Classifying_Disaster_Tweets_with_Voting_Classifier">
 [Classifying Disaster Tweets with Voting Classifier](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets/blob/master/nlp-with-disaster-tweets.ipynb)</a>
 <img src="images/nlp_disaster_tweet_detection.png?raw=true"/><br>
-Disaster relief organisations and news agencies programmatically monitor Twitter to receive real-time information about emergencies and disasters. In this Kaggle competition project, I developed a voting classifier that trains on an ensemble of models (Multinomial Naive Bayes, Logistic Regression, Random Forest) to predict whether a given tweet is about a disaster. The trained classifier has an F1 score of 0.80294 on the test set (Kaggle public score).
+Disaster relief organisations and news agencies programmatically monitor Twitter to receive real-time information about emergencies and disasters. In this Kaggle competition project, I developed a voting classifier that trains on an ensemble of models (Multinomial Naive Bayes, Logistic Regression, Random Forest) to predict whether a given tweet is about a disaster. 
 
 ---
 

@@ -10,4 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   
 theme: jekyll-theme-hydejack
+remote_theme: qwtel/hydejack@gem
 google_analytics: UA-175961645-1

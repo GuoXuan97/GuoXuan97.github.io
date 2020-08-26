@@ -3,7 +3,7 @@
 - <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a> (Unsupervised Learning)<br>
 - <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> (Sensitivity Analysis)
 
----
+<hr class="rounded">
 
 
 <a id="Classifying_Disaster_Tweets_with_Voting_Classifier">
@@ -11,8 +11,7 @@
 <img src="images/nlp_disaster_tweet_detection.png?raw=true"/><br>
 Disaster relief organisations and news agencies programmatically monitor Twitter to receive real-time information about emergencies and disasters. In this Kaggle competition project, I developed a voting classifier that trains on an ensemble of models (Multinomial Naive Bayes, Logistic Regression, Random Forest) to predict whether a given tweet is about a disaster. 
 
----
-
+<hr class="dotted">
 
 <a id="Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">
 [Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling/blob/master/FinalProject.ipynb)<br></a>
@@ -20,7 +19,8 @@ Disaster relief organisations and news agencies programmatically monitor Twitter
 <img src="images/Trump3.png?raw=true"/><br>
 I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested in summarising the narratives that right-wing leaders construct to shore up audience support. This project was submitted for credit for UC Berkeley's DIGHUM101 Practicing the Digital Humanities and scored A.
 
----
+<hr class="dotted">
+
 <a id="Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">
 [Using Data Analytics Tools to Increase Real Estate Management Profits](https://github.com/GuoXuan97/Increasing-Real-Estate-Management-Profits)</a>
 <img src="images/Dashboard.jpg?raw=true"/><br>

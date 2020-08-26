@@ -9,5 +9,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/guoxuan-wong/">View My LinkedIn Profile</a> 
   
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hydejack
 google_analytics: UA-175961645-1

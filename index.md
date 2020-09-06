@@ -1,6 +1,7 @@
 ## Portfolio
 <b>Supervised Learning</b><br>
 - <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a><br> 
+- <a href="#Digit-Recognition-with-CNN">Digit Recognition using a Convolutional Neural Network</a><br> 
 
 <b>Unsupervised Learning</b><br>
 
@@ -16,7 +17,14 @@
 <a id="Classifying_Disaster_Tweets_with_Voting_Classifier"> &nbsp; <img src="images/python.png" height="25"><br>
 [Classifying Disaster Tweets with Voting Classifier](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets/blob/master/nlp-with-disaster-tweets.ipynb)</a>
 <img src="images/nlp_disaster_tweet_detection.png?raw=true"/>  <br>
-Disaster relief organisations and news agencies programmatically monitor Twitter to receive real-time information about emergencies and disasters. In this Kaggle competition project, I developed a voting classifier that trains on an ensemble of models (Multinomial Naive Bayes, Logistic Regression, Random Forest) to predict whether a given tweet is about a disaster.
+Disaster relief organisations and news agencies programmatically monitor Twitter to receive real-time information about emergencies and disasters. In this Kaggle competition, I developed a voting classifier that trains on an ensemble of models (Multinomial Naive Bayes, Logistic Regression, Random Forest) to predict whether a given tweet is about a disaster.
+
+---
+
+<a id="Digit-Recognition-with-CNN"> &nbsp; <img src="images/python.png" height="25"><br>
+[Digit Recognition using a Convolutional Neural Network](https://github.com/GuoXuan97/Digit-Recognition-with-CNN/blob/master/cnn-keras-digit-recognition.ipynb)</a>
+<img src="images/digit_recognition.png?raw=true"/>  <br>
+The training set used for this project comprises 42,000 images from the MNIST dataset - the de facto "hello world" dataset of computer vision. The goal of this Kaggle competition is to build a deep learning model to recognize handwritten digits (0-9). To achieve this objective, I built a convolutional neural network (CNN) using Keras.
 
 ---
 

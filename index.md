@@ -1,15 +1,20 @@
 ## Portfolio
+<b>Unsupervised Learning</b><br>
+- <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a><br>
+
 <b>Supervised Learning</b><br>
 - <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a><br> 
 - <a href="#Digit-Recognition-with-CNN">Digit Recognition using a Convolutional Neural Network</a><br> 
 
-<b>Unsupervised Learning</b><br>
-
-- <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a><br>
-
 <b>Sensitivity Analysis</b><br>
-
 - <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> 
+
+---
+
+<a id="Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling"> &nbsp; <img src="images/python.png" height="25"><br>
+[Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling)<br></a>
+<img src="images/investigating_right_wing_politics.png?raw=true"/><br>
+I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested in summarising the narratives that right-wing leaders construct to shore up audience support. This project was submitted for credit for UC Berkeley's DIGHUM101 Practicing the Digital Humanities and scored A.
 
 ---
 
@@ -22,16 +27,9 @@ Disaster relief organisations and news agencies programmatically monitor Twitter
 ---
 
 <a id="Digit-Recognition-with-CNN"> &nbsp; <img src="images/python.png" height="25"><br>
-[Digit Recognition using a Convolutional Neural Network](https://github.com/GuoXuan97/Digit-Recognition-with-CNN/blob/master/cnn-keras-digit-recognition.ipynb)</a>
-<img src="images/digit_recognition.png?raw=true"/>  <br>
+[Digit Recognition using a Convolutional Neural Network](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets"/>  <br>
 The training set used for this project comprises 42,000 images from the MNIST dataset - the de facto "hello world" dataset of computer vision. The goal of this Kaggle competition is to build a deep learning model to recognize handwritten digits (0-9). To achieve this objective, I built a convolutional neural network (CNN) using Keras.
 
----
-
-<a id="Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling"> &nbsp; <img src="images/python.png" height="25"><br>
-[Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling/blob/master/FinalProject.ipynb)<br></a>
-<img src="images/investigating_right_wing_politics.png?raw=true"/><br>
-I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested in summarising the narratives that right-wing leaders construct to shore up audience support. This project was submitted for credit for UC Berkeley's DIGHUM101 Practicing the Digital Humanities and scored A.
 
 ---
 

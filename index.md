@@ -6,7 +6,7 @@
 - <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a><br> 
 - <a href="#Digit-Recognition-with-CNN">Digit Recognition using a Convolutional Neural Network</a><br> 
 
-<b>Sensitivity Analysis</b><br>
+<b>Others</b><br>
 - <a href="#Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market">Does Covid-19 affect Youths disproportionately in the Labour Market?</a> 
 - <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> 
 

@@ -7,6 +7,7 @@
 - <a href="#Digit-Recognition-with-CNN">Digit Recognition using a Convolutional Neural Network</a><br> 
 
 <b>Sensitivity Analysis</b><br>
+- <a href="#Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market">Does Covid-19 affect Youths disproportionately in the Labour Market?</a> 
 - <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> 
 
 ---
@@ -31,6 +32,12 @@ Disaster relief organisations and news agencies programmatically monitor Twitter
 <img src="images/digit_recognition.png?raw=true"/><br>
 The training set used for this project comprises 42,000 images from the MNIST dataset - the de facto "hello world" dataset of computer vision. The goal of this Kaggle competition is to build a deep learning model to recognize handwritten digits (0-9). To achieve this objective, I built a convolutional neural network (CNN) using Keras.
 
+---
+
+<a id="Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market"> &nbsp; <img src="images/r_logo.png" height="20"><br>
+[Does Covid-19 affect Youths disproportionately in the Labour Market?](https://github.com/GuoXuan97/Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market)</a>
+<img src="images/eu_coronavirus_unemployment.png?raw=true"/> <br>
+The International Labour Organization claims that Covid-19 pandemic has a "devastating and disproportionate" impact on youth unemployment. In this project, I investigate if youths are disproportionately affected by the Covid-19 pandemic in the job market, using evidence from the European Union. Concretely, I use a difference-in-differences approach to isolate the differential impact of the pandemic on youth unemployment (vis-à-vis adult unemployment) in European countries. 
 
 ---
 

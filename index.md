@@ -37,7 +37,7 @@ The training set used for this project comprises 42,000 images from the MNIST da
 <a id="Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market"> &nbsp; <img src="images/r_logo.png" height="20"><br>
 [Does Covid-19 affect Youths disproportionately in the Labour Market?](https://github.com/GuoXuan97/Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market)</a>
 <img src="images/eu_coronavirus_unemployment.png?raw=true"/> <br>
-The International Labour Organization claims that Covid-19 pandemic has a "devastating and disproportionate" impact on youth unemployment. In this project, I investigate if youths are disproportionately affected by the Covid-19 pandemic in the job market, using evidence from the European Union. Concretely, I use a difference-in-differences approach to isolate the differential impact of the pandemic on youth unemployment (vis-à-vis adult unemployment) in European countries. 
+The Covid-19 pandemic led many to worry about a "lost generation" or "lockdown generation". I investigate if youths are disproportionately affected by the Covid-19 pandemic in the job market, using evidence from the European Union. Concretely, I use a difference-in-differences approach to isolate the differential impact of the pandemic on youth unemployment (vis-à-vis adult unemployment) in European countries. 
 
 ---
 

@@ -26,7 +26,7 @@ The Covid-19 pandemic led many to worry about a "lost generation" or "lockdown g
 [Digit Recognition using a Convolutional Neural Network](https://github.com/GuoXuan97/Digit-Recognition-with-CNN)</a>  
 <img src="images/digit_recognition.png?raw=true"/><br>
 The training set used for this project comprises 42,000 images from the MNIST dataset - the de facto "hello world" dataset of computer vision. The goal of this Kaggle competition is to build a deep learning model to recognize handwritten digits (0-9). To achieve this objective, I built a convolutional neural network (CNN) using Keras.
-
+ 
 ---
 
 <a id="Classifying_Disaster_Tweets_with_Voting_Classifier"> &nbsp; <img src="images/python.png" height="25"><br>

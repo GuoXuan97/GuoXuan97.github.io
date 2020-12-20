@@ -1,7 +1,6 @@
 ## Portfolio
 
 - <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a> _(Unsupervised Learning)_
-- <a href="#Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market">Does Covid-19 Affect Youths Disproportionately in the Labour Market?</a> _(Linear Regression, Difference-in-Differences)_
 - <a href="#Digit-Recognition-With-CNN">Digit Recognition using a Convolutional Neural Network</a> _(Supervised Learning - Classification, Deep Learning, Image Recognition)_
 - <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a> _(Supervised Learning - Classification)_ 
 - <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> _(Dashboarding, Sensitivity Analysis)_
@@ -12,13 +11,6 @@
 [Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling)<br></a>
 <img src="images/investigating_right_wing_politics.png?raw=true"/><br>
 I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested in summarising the narratives that right-wing leaders construct to shore up audience support. This project was submitted for credit for UC Berkeley's DIGHUM101 Practicing the Digital Humanities and scored A.
-
----
-
-<a id="Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market"> &nbsp; <img src="images/r_logo.png" height="20"><br>
-[Does Covid-19 Affect Youths Disproportionately in the Labour Market?](https://github.com/GuoXuan97/Does-Covid19-Affect-Youths-Disproportionately-in-the-Labour-Market)</a>
-<img src="images/eu_coronavirus_unemployment.png?raw=true"/> <br>
-The Covid-19 pandemic led many to worry about a "lost generation" or "lockdown generation". I investigate if youths are disproportionately affected by the Covid-19 pandemic in the job market, using evidence from the European Union. Concretely, I use a difference-in-differences approach to isolate the differential impact of the pandemic on youth unemployment (vis-à-vis adult unemployment) in European countries. 
 
 ---
 

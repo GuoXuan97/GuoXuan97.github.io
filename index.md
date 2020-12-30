@@ -22,7 +22,7 @@ The training set used for this project comprises 42,000 images from the MNIST da
 ---
 
 <a id="Classifying_Disaster_Tweets_with_Voting_Classifier"> &nbsp; <img src="images/python.png" height="25"><br>
-[Classifying Disaster Tweets with Voting Classifier](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets/blob/master/nlp-with-disaster-tweets.ipynb)</a>
+[Classifying Disaster Tweets with Voting Classifier](https://github.com/GuoXuan97/Kaggle-Project-NLP-with-Disaster-Tweets/)</a>
 <img src="images/nlp_disaster_tweet_detection.png?raw=true"/>  <br>
 Disaster relief organisations and news agencies programmatically monitor Twitter to receive real-time information about emergencies and disasters. In this Kaggle competition, I developed a voting classifier that trains on an ensemble of models (Multinomial Naive Bayes, Logistic Regression, Random Forest) to predict whether a given tweet is about a disaster.
 

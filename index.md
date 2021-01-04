@@ -1,7 +1,7 @@
 ## Portfolio
 
 - <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a> _(Unsupervised Learning)_
-- <a href="#Quantitative-Trading-Model-to-Identify-Arbitrage-Opportunities-using-XGBoost">Quantitative Trading Model to Identify Arbitrage Opportunities using XGBoost</a> _(Supervised Learning - Classification, Quantitative Trading)_
+- <a href="#Quantitative-Trading-Model-to-Identify-Arbitrage-Opportunities-using-XGBoost">Quantitative Trading Model to Identify Arbitrage Opportunities using XGBoost</a> _(Supervised Learning - Classification)_
 - <a href="#Digit-Recognition-With-CNN">Digit Recognition using a Convolutional Neural Network</a> _(Supervised Learning - Classification, Deep Learning, Image Recognition)_
 - <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a> _(Supervised Learning - Classification)_ 
 - <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> _(Dashboarding, Sensitivity Analysis)_

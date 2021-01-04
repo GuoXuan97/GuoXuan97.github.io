@@ -1,6 +1,7 @@
 ## Portfolio
 
 - <a href="#Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling">Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling</a> _(Unsupervised Learning)_
+- <a href="#Quantitative-Trading-Model-to-Identify-Arbitrage-Opportunities-using-XGBoost">Quantitative Trading Model to Identify Arbitrage Opportunities using XGBoost</a> _(Supervised Learning - Classification, Quantitative Trading)_
 - <a href="#Digit-Recognition-With-CNN">Digit Recognition using a Convolutional Neural Network</a> _(Supervised Learning - Classification, Deep Learning, Image Recognition)_
 - <a href="#Classifying_Disaster_Tweets_with_Voting_Classifier">Classifying Disaster Tweets with Voting Classifier</a> _(Supervised Learning - Classification)_ 
 - <a href="#Using-Data-Analytics-Tools-to-Increase-Real-Estate-Management-Profits">Using Data Analytics Tools to Increase Real Estate Management Profits</a> _(Dashboarding, Sensitivity Analysis)_
@@ -11,6 +12,13 @@
 [Investigating the Appeal of Right-Wing Politics using LDA Topic Modelling](https://github.com/GuoXuan97/Investigating-the-Appeal-of-Right-Wing-Politics-using-LDA-Topic-Modelling)<br></a>
 <img src="images/investigating_right_wing_politics.png?raw=true"/><br>
 I performed computational text analysis and LDA topic modelling on opinion editorials and transcripts of speeches / interviews by right-wing leaders. Specifically, I studied the election of Donald Trump, Brexit and the surprise victory of Scott Morrison's conservative government in Australia’s federal election. I am interested in summarising the narratives that right-wing leaders construct to shore up audience support. This project was submitted for credit for UC Berkeley's DIGHUM101 Practicing the Digital Humanities and scored A.
+
+---
+
+<a id="Quantitative-Trading-Model-to-Identify-Arbitrage-Opportunities-using-XGBoost"> &nbsp; <img src="images/python.png" height="25"><br>
+[Quantitative Trading Model to Identify Arbitrage Opportunities using XGBoost](https://github.com/GuoXuan97/Jane-Street-Market-Prediction)<br></a>
+<img src="images/jane-street-market-prediction.png?raw=true"/><br>
+In this Kaggle competition organised by Jane Street, I developed a trading model to identify arbitrage opportunities to "buy low and sell high". I used XGBoost to build a classifier that decides whether to execute a trade or pass on it. The hyperparameters of the classifier are tuned using Optuna and the model achieved an accuracy score of almost 70%.
 
 ---
 
